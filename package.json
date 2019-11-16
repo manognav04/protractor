@@ -1,0 +1,33 @@
+{
+  "name": "protractor_tests",
+  "version": "1.0.0",
+  "description": "sample project for protractor tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manognav04/protractor_tests.git"
+  },
+  "keywords": [
+    "protractor",
+    "jasmine",
+    "javascript"
+  ],
+  "author": "vmano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manognav04/protractor_tests/issues"
+  },
+  "homepage": "https://github.com/manognav04/protractor_tests#readme",
+  "dependencies": {
+    "protractor": "^5.4.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "jasmine": "^3.5.0"
+  }
+}
